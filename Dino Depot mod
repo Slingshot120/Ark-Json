@@ -2,7 +2,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'"
@@ -13,7 +13,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood'"
@@ -24,7 +24,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
@@ -35,7 +35,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
@@ -49,7 +49,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
@@ -60,7 +60,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin'"
@@ -71,7 +71,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers'"
@@ -82,7 +82,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood'"
@@ -96,7 +96,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal'"
@@ -107,7 +107,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint'"
@@ -118,7 +118,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
@@ -129,7 +129,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian'"
@@ -140,7 +140,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
@@ -153,7 +153,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
@@ -164,7 +164,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide'"
@@ -175,7 +175,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt'"
@@ -186,7 +186,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
@@ -197,7 +197,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
@@ -210,7 +210,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
@@ -224,7 +224,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
@@ -235,7 +235,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch'"
@@ -246,7 +246,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
@@ -257,7 +257,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
@@ -271,7 +271,7 @@
 {"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'"
@@ -282,7 +282,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'"
@@ -296,7 +296,7 @@
 {"dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay'"
@@ -307,7 +307,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt'"
@@ -318,7 +318,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand'"
@@ -329,7 +329,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'"
@@ -340,7 +340,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur'"
@@ -353,7 +353,7 @@
 {"dinoType": "Blueprint'/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CondensedGas.PrimalItemResource_CondensedGas'"
@@ -364,7 +364,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_Element.PrimalItemResource_Gem_Element'"
@@ -375,7 +375,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_BioLum.PrimalItemResource_Gem_BioLum'"
@@ -386,7 +386,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gem_Fertile.PrimalItemResource_Gem_Fertile'"
@@ -397,7 +397,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_FungalWood.PrimalItemResource_FungalWood'"
@@ -410,7 +410,7 @@
 {"dinoType": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust'"
@@ -421,7 +421,7 @@
 }
 ,
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ScrapMetal.PrimalItemResource_ScrapMetal'"
@@ -435,7 +435,7 @@
 {"dinoType": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Genesis/CoreBlueprints/Resources/PrimalItemResource_TurtleShell.PrimalItemResource_TurtleShell'"
@@ -449,7 +449,7 @@
 {"dinoType": "Blueprint'/Game/Genesis2/Dinos/SpaceDolphin/SpaceDolphin_Character_BP.SpaceDolphin_Character_BP'", 
 "produces":[
 {
-"intervalSeconds": 120.00,
+"intervalSeconds": 30.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/Genesis2/CoreBlueprints/Environment/Mutagen/PrimalItemConsumable_Mutagel.PrimalItemConsumable_Mutagel'"
